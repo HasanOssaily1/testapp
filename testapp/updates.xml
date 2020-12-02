@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="testapp_windows-x64_1_0_0.exe" newVersion="1.0.0" newMediaFileId="62" fileSize="3110912" md5Sum="4578d4c007aa695421d142aa5576f797" sha256Sum="0c2c53e088cde12ce2bac7de71bd70ca6b493061d212f2e0a0b9cba45d4475ea" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+  <entry targetMediaFileId="63" updatableVersionMin="" updatableVersionMax="" fileName="testapp_unix_1_0_0.sh" newVersion="1.0.0" newMediaFileId="63" fileSize="1844645" md5Sum="901604fb142765f2429f646e8834a6a4" sha256Sum="23db63a741d351210abe4fcfc72c550a42ac1c600cca122312488ff2e0d89d2a" bundledJre="" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
